@@ -1,4 +1,4 @@
-# Benchmark "mul16u_4UG" written by ABC on Wed Sep 28 19:44:55 2022
+# Benchmark "mul16u_4UG" written by ABC on Wed Sep 28 22:03:55 2022
 .model mul16u_4UG
 .inputs A[0] A[1] A[2] A[3] A[4] A[5] A[6] A[7] A[8] A[9] A[10] A[11] A[12] \
  A[13] A[14] A[15] B[0] B[1] B[2] B[3] B[4] B[5] B[6] B[7] B[8] B[9] B[10] \
