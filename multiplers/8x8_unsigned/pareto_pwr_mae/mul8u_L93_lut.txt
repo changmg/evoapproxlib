@@ -166144,11 +166144,7 @@ LUT for the gradient of the approximate multiplier w.r.t. the second operand:
 136 252 7680
 136 253 8704
 136 254 8704
-136 255 debug: 254 255 34480 34480
-debug: 253 255 34208 34480
-debug: final: 253 255 34208 34480
-debug: final: result = 8704
-8704
+136 255 8704
 137 0 8768
 137 1 8704
 137 2 8704
